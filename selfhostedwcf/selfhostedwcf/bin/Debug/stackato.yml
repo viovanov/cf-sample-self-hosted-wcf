@@ -1,0 +1,6 @@
+app-dir: E:/Documents/Visual Studio 2013/Projects/selfhostedwcf/selfhostedwcf/bin/Debug
+buildpack: https://github.com/viovanov/uhuru-buildpack-exe.git
+disk: 2048
+memory: 256
+name: exe
+stack: win2012
